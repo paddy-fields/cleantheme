@@ -5,12 +5,9 @@
             "middleColor": "#d4d4d4",
             "bottomColor": "#d4d4d4"
         }
-    }
-
-    ,
+    },
     "sidebar": {
         "topBar": {
-
             "backgroundColor": "#2E3235",
             "bottomBorderColor": "#f1f3f6",
             "segmentedControl": {
@@ -18,9 +15,7 @@
                 "borderWidth": 1,
                 "borderRadius": 3
             }
-        }
-
-        ,
+        },
         "table": {
             "backgroundColor": "#2E3235",
             "textColor": "#ffffff",
@@ -31,9 +26,7 @@
             "emphasizedIconColor": "#000000",
             "selectedRowBgColor": "#fff",
             "emphasizedRowBgColor": "#FF4040"
-        }
-
-        ,
+        },
         "bottomBar": {
             "backgroundColor": "#f1f3f6",
             "topBorderColor": "#f1f3f6",
@@ -41,26 +34,20 @@
             "controlColor": "#FF4040",
             "pressedControlColor": "#343A48"
         }
-    }
-
-    ,
+    },
     "noteList": {
         "topBar": {
             "backgroundColor": "#ffffff",
             "bottomBorderColor": "#d4d4d4",
             "controlColor": "#FF4040",
             "pressedControlColor": "#343A48"
-        }
-
-        ,
+        },
         "tableHeader": {
             "backgroundColor": "#f7f7f7",
             "bottomBorderColor": "#d4d4d4",
             "controlColor": "#808080",
             "pressedControlColor": "#343A48"
-        }
-
-        ,
+        },
         "table": {
             "backgroundColor": "#fff",
             "separatorColor": "#e0e0e0",
@@ -79,11 +66,8 @@
             "emphasizedRowBgColor": "#FF4040",
             "draggedRowBgColor": "#ddd",
             "emptyTextColor": "#7f7f7f"
-        }
-
-        ,
+        },
         "bottomBar": {
-
             "backgroundColor": "#f1f3f6",
             "searchField": {
                 "textColor": "#444",
@@ -94,15 +78,11 @@
                 "placeholderColor": "#b8b8b8"
             }
         }
-    }
-
-    ,
+    },
     "noteView": {
-
         "backgroundColor": "#fff",
         "dividerColor": "#d4d4d4",
         "topBar": {
-
             "backgroundColor": "#ffffff",
             "bottomBorderColor": "#d4d4d4",
             "controlColor": "#ffffff",
@@ -112,11 +92,8 @@
                 "borderWidth": 1,
                 "borderRadius": 4
             }
-        }
-
-        ,
+        },
         "toolbar": {
-
             "backgroundColor": "#ffffff",
             "dividerColor": "#d4d4d4",
             "middleDividerColor": "#E1E1E1",
@@ -127,11 +104,8 @@
             "popUpButton": {
                 "titleColor": "#FF4040",
                 "borderColor": "#ababab"
-            }
-
-            ,
+            },
             "tagField": {
-
                 "textColor": "#FF4040",
                 "placeholderColor": "#b8b8b8",
                 "tag": {
@@ -141,15 +115,11 @@
                     "selectedBackgroundColor": "#6caff1",
                     "borderRadius": 4
                 }
-            }
-
-            ,
+            },
             "formatBar": {
                 "controlColor": "#FF4040",
                 "highlightColor": "#3fb1d0"
-            }
-
-            ,
+            },
             "searchField": {
                 "textColor": "#444",
                 "controlColor": "#FF4040",
@@ -157,27 +127,20 @@
                 "backgroundColor": "#FFF",
                 "borderColor": "#c9c9c9",
                 "placeholderColor": "#b8b8b8"
-            }
-
-            ,
+            },
             "doneButton": {
                 "textColor": "#FF4040",
                 "highlightBackgroundColor": "#ddd",
                 "borderColor": "#acacac"
             }
-        }
-
-        ,
+        },
         "bottomBar": {
             "backgroundColor": "#f1f3f6",
             "controlColor": "#FF4040",
             "pressedControlColor": "#343A48"
         }
-    }
-
-    ,
+    },
     "multiNote": {
-
         "backgroundColor": "#f6f6f6",
         "textColor": "#bfbfbf",
         "button": {
@@ -187,11 +150,8 @@
             "highlightBackgroundColor": "#E5E5E5",
             "borderColor": "#bbb",
             "highlightBorderColor": "#bbb"
-        }
-
-        ,
+        },
         "tagField": {
-
             "textColor": "#444",
             "placeholderColor": "#b8b8b8",
             "backgroundColor": "#fff",
@@ -205,11 +165,8 @@
                 "borderRadius": 4
             }
         }
-    }
-
-    ,
+    },
     "notebookPicker": {
-
         "backgroundColor": "#f6f6f6",
         "textColor": "#5a5a5a",
         "dividerColor": "#e0e0e0",
@@ -220,9 +177,7 @@
             "backgroundColor": "#FFF",
             "borderColor": "#c9c9c9",
             "placeholderColor": "#b8b8b8"
-        }
-
-        ,
+        },
         "table": {
             "textColor": "#444",
             "selectedTextColor": "#000",
@@ -234,11 +189,8 @@
             "emphasizedRowBgColor": "#1F6FEB",
             "emptyTextColor": "#7f7f7f"
         }
-    }
-
-    ,
+    },
     "searchView": {
-
         "backgroundColor": "#f6f6f6",
         "searchField": {
             "textColor": "#000",
@@ -247,9 +199,7 @@
             "backgroundColor": "#FFF",
             "borderColor": "#c9c9c9",
             "placeholderColor": "#b8b8b8"
-        }
-
-        ,
+        },
         "tableHeader": {
             "backgroundColor": "#f6f6f6",
             "topBorderColor": "#e0e0e0",
@@ -257,9 +207,7 @@
             "textColor": "#444",
             "controlColor": "#4C5974",
             "pressedControlColor": "#343A48"
-        }
-
-        ,
+        },
         "table": {
             "separatorColor": "#e0e0e0",
             "textColor": "#595959",
@@ -277,23 +225,17 @@
             "emphasizedRowBgColor": "#1F6FEB",
             "emptyTextColor": "#7f7f7f"
         }
-    }
-
-    ,
+    },
     "presentation": {
         "backgroundColor": "#FFF"
-    }
-
-    ,
+    },
     "editor": {
         "codeCellTheme": "monokai",
         "markdownCellTheme": "terminal"
-    }
-
-    ,
+    },
     "css": {
         "className": "light",
-        "editor": ".text-cell,.text-cell li{font-size:15px;font-family:'Avenir Next';letter-spacing:0;line-height:30px;color:#2a2a2a} .text-cell { font-size: 15px !important }#titlearea{font-size:35px;font-weight:100;padding-left:45px}#contentarea{padding-left:35px;padding-top:30px;padding-right:75px;max-width:700px}.code-cell .editor{font-size:11px;line-height:22px}.latex-cell .editor{font-size:12px}.markdown-cell .ace_editor{background-color:#fff;color:#333;font-size:12px;line-height:1.5}.markdown-cell .ace_heading.ace_1,.markdown-cell .ace_heading.ace_1~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_2,.markdown-cell .ace_heading.ace_2~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_3,.markdown-cell .ace_heading.ace_3~.ace_heading{color:#cc4646}.markdown-cell .ace_heading.ace_4,.markdown-cell .ace_heading.ace_4~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_5,.markdown-cell .ace_heading.ace_5~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_6,.markdown-cell .ace_heading.ace_6~.ace_heading{color:#009bc7}.markdown-cell .ace_support.ace_function{color:#888}.markdown-cell .ace_list{color:#6c6c6c}.markdown-cell .ace_blockquote{color:#a1b1c1}.markdown-cell .ace_emphasis{color:#6c6c6c;font-style:italic}.markdown-cell .ace_strong{color:#000}h1,h2,h3{font-family:'Source Sans Pro';color:#000;margin:10px 0 40px}h1{font-size:28px}h2{font-size:21px}h3{font-size:18px;color:red} h1,h2,h3 { font-weight: 900 !important } ul li{color:#d32a14;list-style:none;margin-left:-20px;padding:0;position:relative} ul li span { font-size: 15px !important } ul li::before{color:red;content:\"\\2022\";font-size:1em;left:-1.2225em;position:absolute;top:0}",
+        "editor": ".text-cell,.text-cell li{font-size:15px;font-family:'Avenir Next';letter-spacing:0;line-height:30px;color:#2a2a2a}.text-cell{font-size:15px!important}#titlearea{font-size:35px;font-weight:100;padding-left:45px}#contentarea{padding-left:35px;padding-top:30px;padding-right:75px;max-width:700px}.code-cell .editor{font-size:11px;line-height:22px}.latex-cell .editor{font-size:12px}.markdown-cell .ace_editor{background-color:#fff;color:#333;font-size:12px;line-height:1.5}.markdown-cell .ace_heading.ace_1,.markdown-cell .ace_heading.ace_1~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_2,.markdown-cell .ace_heading.ace_2~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_3,.markdown-cell .ace_heading.ace_3~.ace_heading{color:#cc4646}.markdown-cell .ace_heading.ace_4,.markdown-cell .ace_heading.ace_4~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_5,.markdown-cell .ace_heading.ace_5~.ace_heading{color:#009bc7}.markdown-cell .ace_heading.ace_6,.markdown-cell .ace_heading.ace_6~.ace_heading{color:#009bc7}.markdown-cell .ace_support.ace_function{color:#888}.markdown-cell .ace_list{color:#6c6c6c}.markdown-cell .ace_blockquote{color:#a1b1c1}.markdown-cell .ace_emphasis{color:#6c6c6c;font-style:italic}.markdown-cell .ace_strong{color:#000}h1,h2,h3{font-family:'Source Sans Pro';color:#000;margin:10px 0 40px}h1{font-size:28px}h2{font-size:21px}h3{font-size:18px;color:red}h1,h2,h3{font-weight:900!important}ul li{color:#d32a14;list-style:none;margin-left:-20px;padding:0;position:relative}ol li span,ul li span{font-size:15px!important}ul li::before{color:red;content:\"\\2022\";font-size:1em;left:-1.2225em;position:absolute;top:0}ol li::before{content:counter(li);color:red;display:inline-block;width:1em;margin-left:-45px;margin-right:10px;text-align:right;direction:rtl}ol{list-style:none;counter-reset:li}li{counter-increment:li}",
         "preview": "",
         "presentation": ""
     }
