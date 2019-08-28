@@ -167,11 +167,11 @@
         }
     },
     "notebookPicker": {
-        "backgroundColor": "#f6f6f6",
-        "textColor": "#5a5a5a",
-        "dividerColor": "#e0e0e0",
+        "backgroundColor": "#333",
+        "textColor": "#ffffff",
+        "dividerColor": "#000000",
         "searchField": {
-            "textColor": "#000",
+            "textColor": "#fff",
             "controlColor": "#000",
             "pressedControlColor": "#000",
             "backgroundColor": "#FFF",
@@ -179,12 +179,12 @@
             "placeholderColor": "#b8b8b8"
         },
         "table": {
-            "textColor": "#444",
+            "textColor": "#fff",
             "selectedTextColor": "#000",
             "emphasizedTextColor": "#eee",
-            "iconColor": "#444",
-            "selectedIconColor": "#252525",
-            "emphasizedIconColor": "#eee",
+            "iconColor": "#fff",
+            "selectedIconColor": "#000",
+            "emphasizedIconColor": "#000",
             "selectedRowBgColor": "#d4d4d4",
             "emphasizedRowBgColor": "#1F6FEB",
             "emptyTextColor": "#7f7f7f"
